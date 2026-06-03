@@ -1,0 +1,3 @@
+./Alan/about.txt:I study Git and Linux
+./Alan/backup/about.txt:I study Git and Linux
+./Alan/disk_info.txt:I study Git and Linux
