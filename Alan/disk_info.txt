@@ -1,0 +1,5 @@
+My name is Alan
+I study Git and Linux
+Practical work in progress
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  476G  122G  355G  26% /
