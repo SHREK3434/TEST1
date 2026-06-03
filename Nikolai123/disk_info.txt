@@ -1,0 +1,7 @@
+﻿
+DriveLetter FriendlyName     FileSystemType DriveType HealthStatus OperationalStatus SizeRemaining   Size
+----------- ------------     -------------- --------- ------------ ----------------- -------------   ----
+C           Windows          NTFS           Fixed     Healthy      OK                    335.85 GB ... GB
+            Windows RE tools NTFS           Fixed     Healthy      OK                     60.77 MB 761 MB
+
+
